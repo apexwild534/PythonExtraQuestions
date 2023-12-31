@@ -1,0 +1,17 @@
+Easy Questions:
+
+1. Write a Python program to print a right-angled triangle pattern using asterisks (*).
+2. Create a program that prints a square pattern with a hollow interior using asterisks.
+3. Implement a program that prints a pattern of numbers in the form of a right-angled triangle.
+
+Medium Questions:
+
+4. Write a Python program to print a diamond pattern using asterisks.
+5. Create a program that prints a pyramid pattern with a hollow interior using asterisks.
+6. Implement a program that prints a pattern of numbers in the form of an equilateral triangle.
+
+Difficult Questions:
+
+7. Develop a Python program that prints a pattern of characters to form a specific shape, like a heart or a star.
+8. Write a program that generates a spiral pattern of numbers.
+9. Implement a program that prints a pattern resembling the Pascal's Triangle.

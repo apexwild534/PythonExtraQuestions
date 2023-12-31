@@ -1,0 +1,4 @@
+This is a sample text file.
+It contains multiple lines of text.
+You can use it for text processing tasks.
+Feel free to add more text or customize it as needed.

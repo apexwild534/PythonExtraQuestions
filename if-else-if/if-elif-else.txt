@@ -1,0 +1,14 @@
+Easy Questions:
+
+1. Write a Python program that checks if a number is positive, negative, or zero and prints a corresponding message.
+2. Create a program that takes a user's age as input and determines whether they are a child, teenager, adult, or senior using if, elif, and else.
+
+Medium Questions:
+
+3. Write a Python program to determine whether a given year is a leap year or not using conditional statements.
+4. Implement a program that takes an integer as input and checks if it's prime or composite, providing an appropriate message.
+
+Difficult Questions:
+
+5. Create a Python program that simulates a simple ATM, allowing users to check their balance, deposit, or withdraw funds based on their account balance and input choices.
+6. Write a program that calculates the income tax for a given income based on tax brackets and applies different tax rates for different income levels using if, elif, and else.

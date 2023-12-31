@@ -1,0 +1,13 @@
+Easy Questions:
+
+1. Write a Python program that catches a ZeroDivisionError and displays a message when attempting to divide by zero.
+2. Create a function that takes two numbers as input and returns the result of their division, handling any possible ZeroDivisionError by providing a user-friendly error message.
+
+Medium Questions:
+
+3. Write a Python program that reads an integer from the user and handles a ValueError if the input is not a valid integer.
+4. Create a function that takes a list and an index as input. Handle an IndexError by returning a custom error message if the index is out of range.
+
+Difficult Questions:
+
+5. Implement a Python program that reads data from a file and handles both FileNotFoundError and PermissionError exceptions gracefully, providing appropriate error messages.

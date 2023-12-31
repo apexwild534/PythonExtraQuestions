@@ -1,0 +1,14 @@
+Easy Questions:
+
+1. Write a Python program that uses a while loop to print numbers from 1 to 10.
+2. Create a program that repeatedly asks the user for input until they enter "quit."
+
+Medium Questions:
+
+3. Write a Python program that calculates the factorial of a number using a while loop.
+4. Implement a program that simulates a simple guessing game using a while loop.
+
+Difficult Questions:
+
+5. Develop a Python program that finds the nth Fibonacci number using a while loop.
+6. Create a program that simulates a simple text-based adventure game using a while loop for gameplay.

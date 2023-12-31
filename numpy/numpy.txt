@@ -1,0 +1,18 @@
+Easy Questions:
+
+1. Create a NumPy array with values from 1 to 10 and print the array.
+2. Write a program that calculates the mean and standard deviation of a NumPy array.
+3. Create a NumPy array and reverse the order of its elements.
+ 
+ 
+Medium Questions:
+
+4. Implement a Python program that finds the dot product of two NumPy arrays.
+5. Create a function that normalizes a given NumPy array by scaling its values between 0 and 1.
+6. Write a program that computes the element-wise multiplication of two NumPy arrays.
+
+Difficult Questions:
+
+7. Develop a Python program that performs matrix multiplication using NumPy.
+8. Implement a function that finds the eigenvalues and eigenvectors of a square NumPy matrix.
+9. Create a program that calculates the SVD (Singular Value Decomposition) of a given matrix using NumPy.

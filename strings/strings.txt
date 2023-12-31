@@ -1,0 +1,17 @@
+Easy Questions:
+
+1. Write a Python program to count the number of characters in a given string.
+2. Implement a program that checks if a string is a palindrome.
+3. Create a program that capitalizes the first letter of each word in a sentence.
+
+Medium Questions:
+
+4. Write a Python program that checks if two strings are anagrams.
+5. Implement a program that finds and counts the occurrence of a specific word in a given text.
+6. Create a program that removes all vowels from a string.
+
+Difficult Questions:
+
+7. Develop a Python program that performs a text search and replaces occurrences of a specific word or phrase with another word or phrase.
+8. Write a program that generates a random password of a specified length using letters, numbers, and special characters.
+9. Implement a program that encodes and decodes a string using a simple encryption method (e.g., Caesar cipher).

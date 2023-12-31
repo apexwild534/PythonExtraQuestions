@@ -1,0 +1,22 @@
+Text File
+
+1. Write a Python program that reads a text file and counts the total number of words in the file. Display the word count as the output.
+2. Create a program that reads a text file and calculates the frequency of each character (letter) in the file. Display the character frequency in descending order.
+3. Write a Python program that reads a text file, reverses the order of lines, and writes the reversed lines to a new output file. This effectively reverses the text's line order.
+4. Implement a program that reads a text file, searches for a specific word or phrase, and replaces it with another word or phrase. Save the modified text to a new file.
+5. Create a program that reads a text file and adds line numbers to each line, creating a new file with line numbers. For example, "Line 1: This is the first line."
+
+Binary File
+
+6. Program to write list sequence in a binary File.
+7. Program to write dictionary to binary file.
+8. Program to read dictionary contents from binary file.
+9. Program to store multiple integers in a binary file and read and display it on screen
+
+CSV File
+
+10. Write a Python program to read data from a CSV file named "data.csv" and print out the content in a structured format. Each row in the CSV file contains information about a person, with columns for "Name," "Age," and "Email."
+11. Given a CSV file called "sales.csv" that contains sales data, write a Python program that reads the file and filters out all rows where the "Revenue" column is greater than $1000. Print the filtered data to a new CSV file called "high_revenue_sales.csv."
+12. Create a Python program to read a CSV file called "products.csv" that contains product data, including "Product Name" and "Price." Calculate the average price of all the products and print it to the console.
+13. Given a CSV file "inventory.csv" that contains information about items in a store, write a Python program to increase the "Quantity" column by 10% for each item and save the updated data back to the same CSV file.
+14. Read a CSV file named "student_scores.csv" that contains student names and their exam scores. Calculate and display the average score, maximum score, and minimum score. Additionally, find and print the name of the student with the highest score.

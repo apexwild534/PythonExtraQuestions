@@ -1,0 +1,14 @@
+
+Easy Questions:
+
+1. Write a Python program that uses a for loop to print the numbers from 1 to 10.
+2. Create a program that uses a for loop to print the elements of a list.
+
+Medium Questions:
+
+3. Write a Python program that calculates the sum of all numbers from 1 to n using a for loop.
+4. Write a Python program that finds the largest element in a list using a for loop.
+Difficult Questions:
+
+5. Create a Python program that generates a Fibonacci sequence up to the nth term using a for loop.
+6. Write a program that finds and prints all prime numbers in a given range using a for loop.

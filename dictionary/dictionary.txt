@@ -1,0 +1,15 @@
+Easy Questions:
+
+1. Create a Python dictionary that represents information about a person (name, age, city, etc.) and print its contents.
+2. Write a Python program to check if a key exists in a dictionary.
+3. Given a dictionary of items and their prices, write a program to calculate the total cost of items in a shopping cart.
+
+Medium Questions:
+
+4. Create a Python function that merges two dictionaries and returns a new dictionary with the combined key-value pairs.
+5. Implement a Python program that finds the key with the highest value in a dictionary and returns it.
+
+Difficult Questions:
+
+6. Write a Python program that counts the frequency of each word in a given text using a dictionary.
+7. Create a function that takes a list of dictionaries and a key, and returns a list of values for that key from each dictionary.

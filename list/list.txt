@@ -1,0 +1,17 @@
+Easy Questions:
+
+1. Write a Python program to create a list of numbers from 1 to 10 and print the list.
+2. Implement a program that finds the sum of all numbers in a list of integers.
+3. Create a function that takes a list and returns a new list containing only the even numbers from the original list.
+
+Medium Questions:
+
+4. Write a Python program that reverses a list in place without using any built-in functions.
+5. Implement a program that finds the intersection of two lists, creating a new list with the common elements.
+6. Create a Python function that checks if a list is sorted in ascending order.
+
+Difficult Questions:
+
+7. Develop a program that removes duplicates from a list while preserving the order of the original elements.
+8. Write a Python program to rotate the elements of a list to the left by a specified number of positions.
+9. Implement a function that sorts a list of dictionaries based on a specific key in each dictionary.

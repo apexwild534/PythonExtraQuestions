@@ -1,0 +1,15 @@
+Easy Questions:
+
+1. Given a list of students with names and scores, write a Python program to find the average score for all students.
+2. Create a Python function that takes a list of items and groups them based on a specific criterion (e.g., group numbers by odd and even).
+3. Write a program that merges two dictionaries in Python into a single dictionary.
+
+Medium Questions:
+
+4. Write a Python program to calculate the sum and average of scores for each group of students in a list.
+5. Create a Python program that performs an inner join on two lists of dictionaries based on a common key.
+6. Implement a Python function that calculates the total sales for each product category from a list of sales transactions.
+
+Difficult Questions:
+
+7. Develop a Python program that calculates the median and standard deviation of scores for each group of students.

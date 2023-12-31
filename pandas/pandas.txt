@@ -1,0 +1,11 @@
+Easy Questions:
+
+1. Write a Python program to create a pandas DataFrame from a dictionary and print the DataFrame.
+2. Create a pandas DataFrame and filter rows based on a specific condition (e.g., values greater than a certain threshold).
+
+Medium Questions:
+
+3. Write a Python program that calculates the mean and standard deviation of a specific column in a pandas DataFrame.
+4. Implement a program that merges two pandas DataFrames based on a common key or column.
+5. Create a program that groups and aggregates data in a pandas DataFrame to calculate summary statistics.
+

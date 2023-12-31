@@ -1,0 +1,14 @@
+Easy Questions:
+
+1. Write a Python function that takes two numbers as arguments and returns their sum.
+2. Create a function that checks if a given number is even and returns True if it is, or False if it's not.
+
+Medium Questions:
+
+3. Write a Python function to calculate the factorial of a given number using recursion.
+4. Implement a Python function to find the maximum value in a list of numbers.
+
+Difficult Questions:
+
+5. Create a Python function that solves the Towers of Hanoi problem for a given number of disks.
+6. Write a program that generates Fibonacci numbers up to the nth term using a user-defined function.
